@@ -11,7 +11,7 @@ This project builds a pipeline to analyze Superstore sales data using the power 
 - AWS Athena
 - AWS QuickSight
 
-![Screenshot 2024-05-22 205016](https://github.com/bhavanachitragar/Superstore-Data-Analysis-using-AWS/assets/91766461/f654fcc3-24cb-40fc-beaf-f4535514ddd1)
+![Screenshot 2024-05-22 205016](<img width="1037" height="287" alt="Image" src="https://github.com/user-attachments/assets/eb7bd494-7397-42c2-8a2f-d303b99bea83" />)
 
 
 ### 1. IAM (Identity and Access Management): 
